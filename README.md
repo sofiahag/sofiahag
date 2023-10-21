@@ -1,4 +1,4 @@
-<a href="https://www.sofiahag.com"><img src="https://raw.githubusercontent.com/sofiahag/sofiahag/main/images/sofiahag.png" width="500" /></a>
+<a href="https://www.sofiahag.com"><img src="https://raw.githubusercontent.com/sofiahag/sofiahag/main/images/banner.png" /></a>
 
 ---
 
