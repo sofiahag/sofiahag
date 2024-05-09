@@ -3,6 +3,6 @@
 ---
 
 <p float="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sofiahag&show_icons=true&theme=great-gatsby" width="56%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiahag&layout=compact&theme=great-gatsby" width="42%" /> 
+<img src="https://github-readme-stats.vercel.app/api?username=sofiahag&show_icons=true&theme=ayu-mirage" width="56%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiahag&layout=compact&theme=ayu-mirage" width="42%" /> 
 </p>
